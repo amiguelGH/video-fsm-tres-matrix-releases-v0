@@ -1,7 +1,7 @@
 {
   "homepage": "https://amiguelGH.github.io/video-fsm-tres-matrix-releases-v0",
   "name": "video-fsm-tres-matrix-releases-v0",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@xstate/react": "4.1.1",
